@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tribhavan Yadav
 
-<!--
-**tribhavan-yadav/Tribhavan-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🎓 I’m a passionate developer interested in Web Development
+- 🌱 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💬 Ask me about HTML, CSS, JavaScript, Git, GitHub
+- 📫 Reach me: tribhavan@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools:
+`HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB` `Git` `GitHub`
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tribhavan-yadav&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribhavan-yadav&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://your-portfolio-link.com)
